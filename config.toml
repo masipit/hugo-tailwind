@@ -1,4 +1,4 @@
-baseURL = 'http://example.org/'
+baseURL = 'https://masipit.github.io/hugo-tailwind/'
 languageCode = 'en-us'
 title = 'HugoTailwind'
 theme = 'ht'
